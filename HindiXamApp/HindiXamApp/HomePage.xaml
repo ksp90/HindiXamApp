@@ -30,6 +30,7 @@
           <x:String>English</x:String>
           <x:String>ಕನ್ನಡ</x:String>
           <x:String>हिन्दी</x:String>
+          <x:String>বাংলা</x:String>
         </Picker.Items>
       </Picker>
       <Label Grid.Row ="1" Grid.Column="1" Text="{lEx:Translate Name}" />
